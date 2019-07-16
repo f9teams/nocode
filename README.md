@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+You don't, unless you have an idea to make not coding better.
